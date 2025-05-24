@@ -1,0 +1,3 @@
+11,Hydrochlorothiazide,11,30,2.7,30-12-2025,1,PVP Suppliers,30,pvp@gmail.com,0,0,10,2
+12,Levothyroxine,12,55,3.9,15-05-2026,2,Mallemala Suppliers,55,mallemala@gmail.com,0,0,15,0
+13,Cetirizine,12,120,1.8,05-09-2025,10,SafeMedsCorp,70,safemeds@outlook.com,0,0,30,10

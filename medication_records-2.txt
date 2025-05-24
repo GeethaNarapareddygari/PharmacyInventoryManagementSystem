@@ -1,0 +1,10 @@
+9,Aspirin,1,50,5.0,11-05-2025,1,PVP Suppliers,50,pvp@gmail.com,0,0,55,0
+7,Ibuprofen,1,40,4.0,10-04-2025,3,KVR Medications,40,kvr17@yahoo.com,0,0,20,0
+1,Amoxicillin,4,20,8.5,20-04-2026,3,KVR Medications,40,kvr17@yahoo.com,0,0,12,0
+2,Cetirizine,5,60,2.0,05-09-2025,5,QuickMeds Supply,60,quickmeds@gmail.com,0,0,10,0
+6,Metformin,6,45,1.8,10-11-2026,6,Wellness Distributors,45,wellness@pharma.com,0,0,15,0
+10,Atorvastatin,6,35,2.5,20-04-2025,4,HealthFirstDistributors,200,sales@healthfirst.com,0,0,12,0
+4,Omeprazole,8,50,3.2,15-04-2026,8,Medico Solutions,50,medicosolutions@drugs.com,0,0,20,0
+5,Losartan,2,60,4.1,17-04-2025,7,CareFirst Pharma,60,carefirst@pharma.org,0,0,25,0
+8,Paracetamol,2,30,3.5,15-04-2025,4,HealthFirstDistributors,200,sales@healthfirst.com,0,0,45,0
+3,Amlodipine,2,95,3.8,22-06-2026,4,HealthFirstDistributors,200,sales@healthfirst.com,0,0,26,21

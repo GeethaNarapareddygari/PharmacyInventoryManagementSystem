@@ -1,0 +1,8 @@
+1,PVPSuppliers,50,pvp@gmail.com,0,0
+2,MallemalaSuppliers,30,mallemala@gmail.com,0,0
+3,MediCarePharmaLtd,150,contact@medicarepharma.com,0,0
+4,HealthFirstDistributors,200,sales@healthfirst.com,0,0
+5,WellBeingPharmaCo,180,info@wellbeingpharma.com,0,0
+6,VitalCureSupplies,130,support@vitalcuresupplies.com,0,0
+7,Medico Solutions,50,medicosolutions@drugs.com,0,0
+8,CareFirst Pharma,60,carefirst@pharma.org,0,0
